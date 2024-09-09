@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Screens\Detaylar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Emlak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Envanter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Giderler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Isletme_Ucretleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\ItemFiyat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\KayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\KullaniciIsletme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Magaza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Market.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Oyun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\OyunAlaniVeTarih.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\SabitGelirVeOran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\SatveyaKirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Teklifler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Yonetici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

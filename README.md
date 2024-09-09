@@ -1,0 +1,2 @@
+# MetaLand
+ Sanal Hayat Uygulaması
